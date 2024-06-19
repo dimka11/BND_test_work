@@ -1,0 +1,3 @@
+path: ./data/crowd.mp4
+out_video: ./data/out_video.mp4
+weights: yolov5s.pt
